@@ -8,12 +8,12 @@ namespace kata2_fizzbuzz2
 {
     public static class FizzBuzz
     {
-        public static string Generate(string number)
+        public static object Generate(string number)
         {
             if (IsDivisibleByDiv(number, 15)) return "FizzBuzz";
             if (IsDivisibleByDiv(number,3)) return "Fizz";
             if (IsDivisibleByDiv(number, 5)) return "Buzz";
-            return number;
+            return int.Parse(number);
 
         }
 
@@ -22,11 +22,11 @@ namespace kata2_fizzbuzz2
             return int.Parse(number) % div == 0;
         }
 
-        public static string Compute()
+        public static string Compute(long numberMax)
         {
             var number = 1;
             var result = "";
-            while(number <= 100)
+            while(number <= numberMax)
             {
                 result+= Generate(number.ToString());
                 number++;

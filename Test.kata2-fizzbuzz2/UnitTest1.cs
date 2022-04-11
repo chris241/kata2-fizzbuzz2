@@ -56,10 +56,10 @@ namespace Test.kata2_fizzbuzz2
             Assert.AreEqual(fizz, "FizzBuzz");
         }
         [TestMethod]
-        public void Compute_Return1to100()
+        public void Compute_Return1to4()
         {
-            var number = FizzBuzz.Compute();
-            Assert.AreEqual(number, "FizzBuzz");
+            var number = FizzBuzz.Compute(4);
+            Assert.AreEqual(number, "12Fizz4");
         }
     }
 }
