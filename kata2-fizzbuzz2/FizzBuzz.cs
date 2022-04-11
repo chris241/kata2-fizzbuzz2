@@ -10,14 +10,14 @@ namespace kata2_fizzbuzz2
     {
         public static object Generate(string number)
         {
-            if (IsDivisibleBy3(number, 15)) return "FizzBuzz";
-            if (IsDivisibleBy3(number,3)) return "Fizz";
-            if (IsDivisibleBy3(number, 5)) return "Buzz";
+            if (IsDivisibleByDiv(number, 15)) return "FizzBuzz";
+            if (IsDivisibleByDiv(number,3)) return "Fizz";
+            if (IsDivisibleByDiv(number, 5)) return "Buzz";
             return int.Parse(number);
 
         }
 
-        private static bool IsDivisibleBy3(string number, long div)
+        private static bool IsDivisibleByDiv(string number, long div)
         {
             return int.Parse(number) % div == 0;
         }

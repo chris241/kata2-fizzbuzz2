@@ -49,5 +49,11 @@ namespace Test.kata2_fizzbuzz2
             var fizz = FizzBuzz.Generate("15");
             Assert.AreEqual(fizz, "FizzBuzz");
         }
+        [TestMethod]
+        public void Generate_Val30_ReturnFizzBuzz()
+        {
+            var fizz = FizzBuzz.Generate("30");
+            Assert.AreEqual(fizz, "FizzBuzz");
+        }
     }
 }
