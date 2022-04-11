@@ -55,5 +55,11 @@ namespace Test.kata2_fizzbuzz2
             var fizz = FizzBuzz.Generate("30");
             Assert.AreEqual(fizz, "FizzBuzz");
         }
+        [TestMethod]
+        public void Compute_Return1to100()
+        {
+            var number = FizzBuzz.Compute();
+            Assert.AreEqual(number, "FizzBuzz");
+        }
     }
 }
