@@ -15,3 +15,6 @@ C:\Users\ASUS\source\repos\kata2-fizzbuzz2\Test.kata2-fizzbuzz2\obj\Debug\Test.k
 C:\Users\ASUS\source\repos\kata2-fizzbuzz2\Test.kata2-fizzbuzz2\obj\Debug\Test.kata2-fizzbuzz2.csproj.CopyComplete
 C:\Users\ASUS\source\repos\kata2-fizzbuzz2\Test.kata2-fizzbuzz2\obj\Debug\Test.kata2-fizzbuzz2.dll
 C:\Users\ASUS\source\repos\kata2-fizzbuzz2\Test.kata2-fizzbuzz2\obj\Debug\Test.kata2-fizzbuzz2.pdb
+C:\Users\ASUS\source\repos\kata2-fizzbuzz2\Test.kata2-fizzbuzz2\bin\Debug\kata2-fizzbuzz2.exe
+C:\Users\ASUS\source\repos\kata2-fizzbuzz2\Test.kata2-fizzbuzz2\bin\Debug\kata2-fizzbuzz2.pdb
+C:\Users\ASUS\source\repos\kata2-fizzbuzz2\Test.kata2-fizzbuzz2\bin\Debug\kata2-fizzbuzz2.exe.config

@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\kata2-fizzbuzz2\kata2-fizzbuzz2\bin\Debug\kata2-fizzbuzz2.exe.config
+C:\Users\ASUS\source\repos\kata2-fizzbuzz2\kata2-fizzbuzz2\bin\Debug\kata2-fizzbuzz2.exe
+C:\Users\ASUS\source\repos\kata2-fizzbuzz2\kata2-fizzbuzz2\bin\Debug\kata2-fizzbuzz2.pdb
+C:\Users\ASUS\source\repos\kata2-fizzbuzz2\kata2-fizzbuzz2\obj\Debug\kata2-fizzbuzz2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\kata2-fizzbuzz2\kata2-fizzbuzz2\obj\Debug\kata2-fizzbuzz2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\kata2-fizzbuzz2\kata2-fizzbuzz2\obj\Debug\kata2-fizzbuzz2.exe
+C:\Users\ASUS\source\repos\kata2-fizzbuzz2\kata2-fizzbuzz2\obj\Debug\kata2-fizzbuzz2.pdb
