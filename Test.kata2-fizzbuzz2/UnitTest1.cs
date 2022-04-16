@@ -1,6 +1,5 @@
 ﻿using kata2_fizzbuzz2;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 
 namespace Test.kata2_fizzbuzz2
 {
